@@ -44,6 +44,7 @@ section{
     text-align: center;
     display: flex;
     padding: 1%;
+    justify-content: center;
 }
 div{
     flex-basis: 30%;
